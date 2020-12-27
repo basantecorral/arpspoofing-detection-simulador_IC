@@ -27,7 +27,7 @@ def init_id_1(str, id):
 	label_1 = tkinter.Label(root)
 	label_1.config(text = selection)
 	label_1.place(x=530, y=300, width=200, height=50)
-	messagebox.showinfo( "Elementos levantados para el Escenario 1", "192.168.1.110 Elasticsearch\n192.168.1.120 Logstash\n192.168.1.130 Kibana\nmodo host Suricata\n192.168.1.136 Kali Linux\n192.168.1.140 IEC Server\n192.168.1.141 IEC Client"),
+	messagebox.showinfo( "Elementos levantados para el Escenario 1", "192.168.1.110 Elasticsearch\n192.168.1.120 Logstash\n192.168.1.130 Kibana\nmodo host Suricata\n192.168.1.136 Kali Linux\n192.168.1.140 IEC Server\n192.168.1.141 IEC Client\n192.168.1.150 Switch\n192.168.1.155 Arp-spoofer"),
 
 def init_id_2(str, id):
 	os.system("sh "+path0+str+".sh")
@@ -36,7 +36,7 @@ def init_id_2(str, id):
 	label_2 = tkinter.Label(root)
 	label_2.config(text = selection)
 	label_2.place(x=530, y=300, width=200, height=50)
-	messagebox.showinfo( "Elementos levantados para el Escenario 2", "192.168.1.10 Elasticsearch\n192.168.1.20 Logstash\n192.168.1.30 Kibana\nmodo host Suricata\n192.168.1.60 Kali Linux\n192.168.1.70 ModBus Server\n192.168.1.80 ModBus Client"),
+	messagebox.showinfo( "Elementos levantados para el Escenario 2", "192.168.1.10 Elasticsearch\n192.168.1.20 Logstash\n192.168.1.30 Kibana\nmodo host Suricata\n192.168.1.60 Kali Linux\n192.168.1.70 ModBus Server\n192.168.1.80 ModBus Client\n192.168.1.90 Swtich\n192.168.1.95 Arp-spoofer"),
 
 def init_id_3(str, id):
 	os.system("sh "+path0+str+".sh")

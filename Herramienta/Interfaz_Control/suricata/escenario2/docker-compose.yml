@@ -5,7 +5,7 @@ services:
     image: "msanz741/suricata_mario"
     container_name: suricata_es2
     privileged: true
-    command: -i br-cbca3691b7c2
+    command: -i br-6fd0e2739b0c
     cap_add:
       - NET_ADMIN
       - SYS_NICE
