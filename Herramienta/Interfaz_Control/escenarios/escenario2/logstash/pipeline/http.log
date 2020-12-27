@@ -1,0 +1,335 @@
+08/17/2020-15:24:10.286998 localhost [**] / [**] Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:79.0) Gecko/20100101 Firefox/79.0 [**] 192.168.1.1:35204 -> 192.168.1.30:5601
+08/17/2020-15:24:10.339463 elasticsearch [**] /.kibana/doc/config%3A6.5.0 [**] <useragent unknown> [**] 192.168.1.30:51872 -> 192.168.1.10:9200
+08/17/2020-15:24:10.500289 elasticsearch [**] /.kibana/_search?size=1000&from=0 [**] <useragent unknown> [**] 192.168.1.30:51872 -> 192.168.1.10:9200
+08/17/2020-15:24:11.814394 elasticsearch [**] /.kibana/doc/config%3A6.5.0/_create?refresh=wait_for [**] <useragent unknown> [**] 192.168.1.30:51872 -> 192.168.1.10:9200
+08/17/2020-15:24:11.831516 elasticsearch [**] /.kibana/doc/config%3A6.5.0 [**] <useragent unknown> [**] 192.168.1.30:51872 -> 192.168.1.10:9200
+08/17/2020-15:24:12.216103 localhost [**] /app/kibana [**] Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:79.0) Gecko/20100101 Firefox/79.0 [**] 192.168.1.1:35208 -> 192.168.1.30:5601
+08/17/2020-15:24:12.368042 localhost [**] /bundles/app/kibana/bootstrap.js [**] Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:79.0) Gecko/20100101 Firefox/79.0 [**] 192.168.1.1:35214 -> 192.168.1.30:5601
+08/17/2020-15:24:12.641113 localhost [**] /plugins/kibana/index.css [**] Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:79.0) Gecko/20100101 Firefox/79.0 [**] 192.168.1.1:35248 -> 192.168.1.30:5601
+08/17/2020-15:24:12.714517 localhost [**] /bundles/commons.style.css [**] Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:79.0) Gecko/20100101 Firefox/79.0 [**] 192.168.1.1:35236 -> 192.168.1.30:5601
+08/17/2020-15:24:12.743573 localhost [**] /plugins/inspector_views/index.css [**] Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:79.0) Gecko/20100101 Firefox/79.0 [**] 192.168.1.1:35288 -> 192.168.1.30:5601
+08/17/2020-15:24:12.561057 localhost [**] /bundles/vendors.style.css [**] Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:79.0) Gecko/20100101 Firefox/79.0 [**] 192.168.1.1:35232 -> 192.168.1.30:5601
+08/17/2020-15:24:12.459155 localhost [**] /ui/favicons/apple-touch-icon.png [**] Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:79.0) Gecko/20100101 Firefox/79.0 [**] 192.168.1.1:35228 -> 192.168.1.30:5601
+08/17/2020-15:24:12.659303 localhost [**] /plugins/tile_map/index.css [**] Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:79.0) Gecko/20100101 Firefox/79.0 [**] 192.168.1.1:35260 -> 192.168.1.30:5601
+08/17/2020-15:24:12.720308 localhost [**] /plugins/region_map/index.css [**] Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:79.0) Gecko/20100101 Firefox/79.0 [**] 192.168.1.1:35276 -> 192.168.1.30:5601
+08/17/2020-15:24:12.722150 localhost [**] /plugins/metric_vis/index.css [**] Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:79.0) Gecko/20100101 Firefox/79.0 [**] 192.168.1.1:35280 -> 192.168.1.30:5601
+08/17/2020-15:24:12.629540 localhost [**] /plugins/console/index.css [**] Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:79.0) Gecko/20100101 Firefox/79.0 [**] 192.168.1.1:35252 -> 192.168.1.30:5601
+08/17/2020-15:24:12.861768 localhost [**] /bundles/vendors.bundle.js [**] Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:79.0) Gecko/20100101 Firefox/79.0 [**] 192.168.1.1:35296 -> 192.168.1.30:5601
+08/17/2020-15:24:12.613147 localhost [**] /plugins/vega/index.css [**] Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:79.0) Gecko/20100101 Firefox/79.0 [**] 192.168.1.1:35244 -> 192.168.1.30:5601
+08/17/2020-15:24:12.644343 localhost [**] /plugins/timelion/index.css [**] Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:79.0) Gecko/20100101 Firefox/79.0 [**] 192.168.1.1:35256 -> 192.168.1.30:5601
+08/17/2020-15:24:12.464054 localhost [**] /ui/favicons/favicon-32x32.png [**] Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:79.0) Gecko/20100101 Firefox/79.0 [**] 192.168.1.1:35226 -> 192.168.1.30:5601
+08/17/2020-15:24:12.729240 localhost [**] /plugins/markdown_vis/index.css [**] Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:79.0) Gecko/20100101 Firefox/79.0 [**] 192.168.1.1:35284 -> 192.168.1.30:5601
+08/17/2020-15:24:12.662549 localhost [**] /plugins/tagcloud/index.css [**] Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:79.0) Gecko/20100101 Firefox/79.0 [**] 192.168.1.1:35264 -> 192.168.1.30:5601
+08/17/2020-15:24:12.747111 localhost [**] /plugins/input_control_vis/index.css [**] Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:79.0) Gecko/20100101 Firefox/79.0 [**] 192.168.1.1:35292 -> 192.168.1.30:5601
+08/17/2020-15:24:12.662110 localhost [**] /bundles/kibana.style.css [**] Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:79.0) Gecko/20100101 Firefox/79.0 [**] 192.168.1.1:35240 -> 192.168.1.30:5601
+08/17/2020-15:24:12.683236 localhost [**] /plugins/table_vis/index.css [**] Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:79.0) Gecko/20100101 Firefox/79.0 [**] 192.168.1.1:35268 -> 192.168.1.30:5601
+08/17/2020-15:24:12.689890 localhost [**] /plugins/status_page/index.css [**] Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:79.0) Gecko/20100101 Firefox/79.0 [**] 192.168.1.1:35272 -> 192.168.1.30:5601
+08/17/2020-15:24:12.783252 192.168.1.10 [**] /_bulk [**] Manticore 0.6.4 [**] 192.168.1.20:34530 -> 192.168.1.10:9200
+08/17/2020-15:24:13.672453 localhost [**] /bundles/commons.bundle.js [**] Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:79.0) Gecko/20100101 Firefox/79.0 [**] 192.168.1.1:35304 -> 192.168.1.30:5601
+08/17/2020-15:24:13.943115 localhost [**] /bundles/kibana.bundle.js [**] Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:79.0) Gecko/20100101 Firefox/79.0 [**] 192.168.1.1:35310 -> 192.168.1.30:5601
+08/17/2020-15:24:14.405848 192.168.1.10 [**] /_bulk [**] Manticore 0.6.4 [**] 192.168.1.20:34530 -> 192.168.1.10:9200
+08/17/2020-15:24:17.124632 localhost [**] /api/console/api_server?sense_version=%40%40SENSE_VERSION&apis=es_6_0 [**] Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:79.0) Gecko/20100101 Firefox/79.0 [**] 192.168.1.1:35316 -> 192.168.1.30:5601
+08/17/2020-15:24:17.684036 localhost [**] /plugins/timelion/icon.svg [**] Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:79.0) Gecko/20100101 Firefox/79.0 [**] 192.168.1.1:35332 -> 192.168.1.30:5601
+08/17/2020-15:24:17.667114 localhost [**] /plugins/kibana/assets/dashboard.svg [**] Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:79.0) Gecko/20100101 Firefox/79.0 [**] 192.168.1.1:35328 -> 192.168.1.30:5601
+08/17/2020-15:24:17.659045 localhost [**] /plugins/kibana/assets/visualize.svg [**] Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:79.0) Gecko/20100101 Firefox/79.0 [**] 192.168.1.1:35324 -> 192.168.1.30:5601
+08/17/2020-15:24:17.636254 localhost [**] /plugins/kibana/assets/discover.svg [**] Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:79.0) Gecko/20100101 Firefox/79.0 [**] 192.168.1.1:35320 -> 192.168.1.30:5601
+08/17/2020-15:24:17.698638 localhost [**] /plugins/kibana/assets/wrench.svg [**] Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:79.0) Gecko/20100101 Firefox/79.0 [**] 192.168.1.1:35336 -> 192.168.1.30:5601
+08/17/2020-15:24:17.805935 elasticsearch [**] /.kibana/_search?size=10000&from=0 [**] <useragent unknown> [**] 192.168.1.30:51872 -> 192.168.1.10:9200
+08/17/2020-15:24:17.814453 localhost [**] /api/saved_objects/_find?type=index-pattern&per_page=10000 [**] Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:79.0) Gecko/20100101 Firefox/79.0 [**] 192.168.1.1:35348 -> 192.168.1.30:5601
+08/17/2020-15:24:17.795450 localhost [**] /bundles/fa0bbd682c66f1187d48f74b33b5bbd0.svg [**] Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:79.0) Gecko/20100101 Firefox/79.0 [**] 192.168.1.1:35352 -> 192.168.1.30:5601
+08/17/2020-15:24:17.738740 localhost [**] /plugins/kibana/assets/settings.svg [**] Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:79.0) Gecko/20100101 Firefox/79.0 [**] 192.168.1.1:35340 -> 192.168.1.30:5601
+08/17/2020-15:24:17.756515 localhost [**] /plugins/kibana/assets/play-circle.svg [**] Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:79.0) Gecko/20100101 Firefox/79.0 [**] 192.168.1.1:35344 -> 192.168.1.30:5601
+08/17/2020-15:24:18.154831 localhost [**] /api/saved_objects/_find?type=index-pattern&fields=title&search=*&search_fields=title&per_page=1 [**] Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:79.0) Gecko/20100101 Firefox/79.0 [**] 192.168.1.1:35356 -> 192.168.1.30:5601
+08/17/2020-15:24:18.152699 elasticsearch [**] /.kibana/_search?size=1&from=0&_source=index-pattern.title%2Cnamespace%2Ctype%2Ctitle [**] <useragent unknown> [**] 192.168.1.30:51872 -> 192.168.1.10:9200
+08/17/2020-15:24:29.669951 elasticsearch [**] /.kibana/_search?size=10000&from=0&_source=index-pattern.title%2Cindex-pattern.type%2Cnamespace%2Ctype%2Ctitle%2Ctype [**] <useragent unknown> [**] 192.168.1.30:51872 -> 192.168.1.10:9200
+08/17/2020-15:24:29.672068 localhost [**] /api/saved_objects/_find?type=index-pattern&fields=title&fields=type&per_page=10000 [**] Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:79.0) Gecko/20100101 Firefox/79.0 [**] 192.168.1.1:35360 -> 192.168.1.30:5601
+08/17/2020-15:24:30.102495 localhost [**] /elasticsearch/*/_search [**] Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:79.0) Gecko/20100101 Firefox/79.0 [**] 192.168.1.1:35364 -> 192.168.1.30:5601
+08/17/2020-15:24:30.098226 elasticsearch [**] /*/_search [**] <useragent unknown> [**] 192.168.1.30:52028 -> 192.168.1.10:9200
+08/17/2020-15:24:30.365494 localhost [**] /api/saved_objects/_find?type=index-pattern&fields=title&per_page=10000 [**] Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:79.0) Gecko/20100101 Firefox/79.0 [**] 192.168.1.1:35370 -> 192.168.1.30:5601
+08/17/2020-15:24:30.358439 elasticsearch [**] /.kibana/_search?size=10000&from=0&_source=index-pattern.title%2Cnamespace%2Ctype%2Ctitle [**] <useragent unknown> [**] 192.168.1.30:51872 -> 192.168.1.10:9200
+08/17/2020-15:24:39.233719 elasticsearch [**] /a*/_search [**] <useragent unknown> [**] 192.168.1.30:52042 -> 192.168.1.10:9200
+08/17/2020-15:24:39.237786 localhost [**] /elasticsearch/a*/_search [**] Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:79.0) Gecko/20100101 Firefox/79.0 [**] 192.168.1.1:35378 -> 192.168.1.30:5601
+08/17/2020-15:24:44.925536 elasticsearch [**] /*/_search [**] <useragent unknown> [**] 192.168.1.30:52050 -> 192.168.1.10:9200
+08/17/2020-15:24:44.926982 localhost [**] /elasticsearch/*/_search [**] Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:79.0) Gecko/20100101 Firefox/79.0 [**] 192.168.1.1:35386 -> 192.168.1.30:5601
+08/17/2020-15:24:46.490954 localhost [**] /elasticsearch/s*/_search [**] Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:79.0) Gecko/20100101 Firefox/79.0 [**] 192.168.1.1:35392 -> 192.168.1.30:5601
+08/17/2020-15:24:46.489706 elasticsearch [**] /s*/_search [**] <useragent unknown> [**] 192.168.1.30:52056 -> 192.168.1.10:9200
+08/17/2020-15:24:47.048653 elasticsearch [**] /sur*/_search [**] <useragent unknown> [**] 192.168.1.30:52068 -> 192.168.1.10:9200
+08/17/2020-15:24:46.878404 elasticsearch [**] /su*/_search [**] <useragent unknown> [**] 192.168.1.30:52062 -> 192.168.1.10:9200
+08/17/2020-15:24:46.883563 localhost [**] /elasticsearch/su*/_search [**] Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:79.0) Gecko/20100101 Firefox/79.0 [**] 192.168.1.1:35398 -> 192.168.1.30:5601
+08/17/2020-15:24:47.051635 localhost [**] /elasticsearch/sur*/_search [**] Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:79.0) Gecko/20100101 Firefox/79.0 [**] 192.168.1.1:35404 -> 192.168.1.30:5601
+08/17/2020-15:24:47.690910 elasticsearch [**] /surica*/_search [**] <useragent unknown> [**] 192.168.1.30:52086 -> 192.168.1.10:9200
+08/17/2020-15:24:47.443701 localhost [**] /elasticsearch/suric*/_search [**] Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:79.0) Gecko/20100101 Firefox/79.0 [**] 192.168.1.1:35416 -> 192.168.1.30:5601
+08/17/2020-15:24:47.440587 elasticsearch [**] /suric*/_search [**] <useragent unknown> [**] 192.168.1.30:52080 -> 192.168.1.10:9200
+08/17/2020-15:24:47.195947 elasticsearch [**] /suri*/_search [**] <useragent unknown> [**] 192.168.1.30:52074 -> 192.168.1.10:9200
+08/17/2020-15:24:47.199731 localhost [**] /elasticsearch/suri*/_search [**] Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:79.0) Gecko/20100101 Firefox/79.0 [**] 192.168.1.1:35410 -> 192.168.1.30:5601
+08/17/2020-15:24:47.699846 localhost [**] /elasticsearch/surica*/_search [**] Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:79.0) Gecko/20100101 Firefox/79.0 [**] 192.168.1.1:35422 -> 192.168.1.30:5601
+08/17/2020-15:24:48.006873 elasticsearch [**] /suricata*/_search [**] <useragent unknown> [**] 192.168.1.30:52098 -> 192.168.1.10:9200
+08/17/2020-15:24:48.011851 localhost [**] /elasticsearch/suricata*/_search [**] Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:79.0) Gecko/20100101 Firefox/79.0 [**] 192.168.1.1:35434 -> 192.168.1.30:5601
+08/17/2020-15:24:47.947950 elasticsearch [**] /suricat*/_search [**] <useragent unknown> [**] 192.168.1.30:52092 -> 192.168.1.10:9200
+08/17/2020-15:24:47.952100 localhost [**] /elasticsearch/suricat*/_search [**] Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:79.0) Gecko/20100101 Firefox/79.0 [**] 192.168.1.1:35428 -> 192.168.1.30:5601
+08/17/2020-15:24:52.364248 elasticsearch [**] /suricata_*/_search [**] <useragent unknown> [**] 192.168.1.30:52104 -> 192.168.1.10:9200
+08/17/2020-15:24:52.367536 localhost [**] /elasticsearch/suricata_*/_search [**] Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:79.0) Gecko/20100101 Firefox/79.0 [**] 192.168.1.1:35440 -> 192.168.1.30:5601
+08/17/2020-15:24:54.009420 localhost [**] /elasticsearch/suricata_e*/_search [**] Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:79.0) Gecko/20100101 Firefox/79.0 [**] 192.168.1.1:35446 -> 192.168.1.30:5601
+08/17/2020-15:24:54.006049 elasticsearch [**] /suricata_e*/_search [**] <useragent unknown> [**] 192.168.1.30:52110 -> 192.168.1.10:9200
+08/17/2020-15:24:54.249400 localhost [**] /elasticsearch/suricata_e2*/_search [**] Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:79.0) Gecko/20100101 Firefox/79.0 [**] 192.168.1.1:35452 -> 192.168.1.30:5601
+08/17/2020-15:24:54.238878 elasticsearch [**] /suricata_e2*/_search [**] <useragent unknown> [**] 192.168.1.30:52116 -> 192.168.1.10:9200
+08/17/2020-15:24:58.672774 elasticsearch [**] /suricata_e2*/_field_caps?fields=*&ignore_unavailable=true&allow_no_indices=false [**] <useragent unknown> [**] 192.168.1.30:52122 -> 192.168.1.10:9200
+08/17/2020-15:24:58.694760 localhost [**] /api/index_patterns/_fields_for_wildcard?pattern=suricata_e2*&meta_fields=%5B%22_source%22%2C%22_id%22%2C%22_type%22%2C%22_index%22%2C%22_score%22%5D [**] Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:79.0) Gecko/20100101 Firefox/79.0 [**] 192.168.1.1:35458 -> 192.168.1.30:5601
+08/17/2020-15:25:04.320738 localhost [**] /api/saved_objects/_find?type=index-pattern&per_page=10&search=%22suricata_e2*%22&search_fields=title&fields=title [**] Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:79.0) Gecko/20100101 Firefox/79.0 [**] 192.168.1.1:35464 -> 192.168.1.30:5601
+08/17/2020-15:25:04.311805 elasticsearch [**] /.kibana/_search?size=10&from=0&_source=index-pattern.title%2Cnamespace%2Ctype%2Ctitle [**] <useragent unknown> [**] 192.168.1.30:51872 -> 192.168.1.10:9200
+08/17/2020-15:25:04.938473 elasticsearch [**] /.kibana/doc/index-pattern%3Ad30e2bb0-e09d-11ea-abc7-b5a12edae5fc?refresh=wait_for [**] <useragent unknown> [**] 192.168.1.30:51872 -> 192.168.1.10:9200
+08/17/2020-15:25:04.945688 localhost [**] /api/saved_objects/index-pattern [**] Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:79.0) Gecko/20100101 Firefox/79.0 [**] 192.168.1.1:35468 -> 192.168.1.30:5601
+08/17/2020-15:25:05.990275 elasticsearch [**] /.kibana/doc/config%3A6.5.0/_update?refresh=wait_for [**] <useragent unknown> [**] 192.168.1.30:51872 -> 192.168.1.10:9200
+08/17/2020-15:25:06.062663 elasticsearch [**] /.kibana/doc/config%3A6.5.0 [**] <useragent unknown> [**] 192.168.1.30:51872 -> 192.168.1.10:9200
+08/17/2020-15:25:06.019682 localhost [**] /api/kibana/settings [**] Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:79.0) Gecko/20100101 Firefox/79.0 [**] 192.168.1.1:35472 -> 192.168.1.30:5601
+08/17/2020-15:25:06.171284 localhost [**] /api/saved_objects/_find?type=index-pattern&per_page=10000 [**] Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:79.0) Gecko/20100101 Firefox/79.0 [**] 192.168.1.1:35476 -> 192.168.1.30:5601
+08/17/2020-15:25:06.337516 localhost [**] /api/saved_objects/_bulk_get [**] Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:79.0) Gecko/20100101 Firefox/79.0 [**] 192.168.1.1:35484 -> 192.168.1.30:5601
+08/17/2020-15:25:06.167941 elasticsearch [**] /.kibana/_search?size=10000&from=0 [**] <useragent unknown> [**] 192.168.1.30:51872 -> 192.168.1.10:9200
+08/17/2020-15:25:06.358908 elasticsearch [**] /suricata_e2*/_field_caps?fields=*&ignore_unavailable=true&allow_no_indices=false [**] <useragent unknown> [**] 192.168.1.30:52122 -> 192.168.1.10:9200
+08/17/2020-15:25:06.215038 elasticsearch [**] /.kibana/_search?size=10000&from=0&_source=index-pattern.title%2Cindex-pattern.type%2Cnamespace%2Ctype%2Ctitle%2Ctype [**] <useragent unknown> [**] 192.168.1.30:51872 -> 192.168.1.10:9200
+08/17/2020-15:25:06.222355 localhost [**] /api/saved_objects/_find?type=index-pattern&fields=title&fields=type&per_page=10000 [**] Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:79.0) Gecko/20100101 Firefox/79.0 [**] 192.168.1.1:35480 -> 192.168.1.30:5601
+08/17/2020-15:25:06.316290 elasticsearch [**] /.kibana/_mget [**] <useragent unknown> [**] 192.168.1.30:51872 -> 192.168.1.10:9200
+08/17/2020-15:25:06.371703 localhost [**] /api/index_patterns/_fields_for_wildcard?pattern=suricata_e2*&meta_fields=%5B%22_source%22%2C%22_id%22%2C%22_type%22%2C%22_index%22%2C%22_score%22%5D [**] Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:79.0) Gecko/20100101 Firefox/79.0 [**] 192.168.1.1:35488 -> 192.168.1.30:5601
+08/17/2020-15:25:07.581073 localhost [**] /bundles/4b5a84aaf1c9485e060c503a0ff8cadb.woff2 [**] Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:79.0) Gecko/20100101 Firefox/79.0 [**] 192.168.1.1:35496 -> 192.168.1.30:5601
+08/17/2020-15:25:12.333325 localhost [**] /api/saved_objects/_find?type=index-pattern&fields=title&per_page=10000 [**] Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:79.0) Gecko/20100101 Firefox/79.0 [**] 192.168.1.1:35504 -> 192.168.1.30:5601
+08/17/2020-15:25:12.280172 localhost [**] /api/saved_objects/_find?type=index-pattern&per_page=10000 [**] Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:79.0) Gecko/20100101 Firefox/79.0 [**] 192.168.1.1:35500 -> 192.168.1.30:5601
+08/17/2020-15:25:13.772723 elasticsearch [**] /_msearch [**] <useragent unknown> [**] 192.168.1.30:52172 -> 192.168.1.10:9200
+08/17/2020-15:25:13.773710 localhost [**] /elasticsearch/_msearch [**] Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:79.0) Gecko/20100101 Firefox/79.0 [**] 192.168.1.1:35508 -> 192.168.1.30:5601
+08/17/2020-15:25:19.442904 localhost [**] /api/saved_objects/_find?type=visualization&per_page=1000&page=1&search_fields=title%5E3&search_fields=description [**] Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:79.0) Gecko/20100101 Firefox/79.0 [**] 192.168.1.1:35514 -> 192.168.1.30:5601
+08/17/2020-15:25:23.923350 localhost [**] /api/saved_objects/_find?type=index-pattern&fields=title&per_page=10000 [**] Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:79.0) Gecko/20100101 Firefox/79.0 [**] 192.168.1.1:35518 -> 192.168.1.30:5601
+08/17/2020-15:25:24.191316 localhost [**] /api/saved_objects/_find?type=search&per_page=100&page=1&search_fields=title%5E3&search_fields=description [**] Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:79.0) Gecko/20100101 Firefox/79.0 [**] 192.168.1.1:35522 -> 192.168.1.30:5601
+08/17/2020-15:25:27.905196 elasticsearch [**] /_msearch [**] <useragent unknown> [**] 192.168.1.30:52190 -> 192.168.1.10:9200
+08/17/2020-15:25:27.907462 localhost [**] /elasticsearch/_msearch [**] Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:79.0) Gecko/20100101 Firefox/79.0 [**] 192.168.1.1:35526 -> 192.168.1.30:5601
+08/17/2020-15:25:45.703794 localhost [**] /api/saved_objects/_find?type=dashboard&per_page=1000&page=1&search_fields=title%5E3&search_fields=description [**] Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:79.0) Gecko/20100101 Firefox/79.0 [**] 192.168.1.1:35536 -> 192.168.1.30:5601
+08/17/2020-15:25:46.218747 localhost [**] /api/saved_objects/_find?type=index-pattern&fields=title&search=*&search_fields=title&per_page=1 [**] Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:79.0) Gecko/20100101 Firefox/79.0 [**] 192.168.1.1:35540 -> 192.168.1.30:5601
+08/17/2020-15:25:58.898645 localhost [**] / [**] Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:79.0) Gecko/20100101 Firefox/79.0 [**] 192.168.1.1:37284 -> 192.168.1.10:9200
+08/17/2020-15:26:17.276505 kibana [**] /app/kibana [**] Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:79.0) Gecko/20100101 Firefox/79.0 [**] 192.168.1.35:57372 -> 192.168.1.30:5601
+08/17/2020-15:26:17.243685 kibana [**] / [**] Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:79.0) Gecko/20100101 Firefox/79.0 [**] 192.168.1.35:57370 -> 192.168.1.30:5601
+08/17/2020-15:26:17.243913 localhost [**] / [**] Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:79.0) Gecko/20100101 Firefox/79.0 [**] 192.168.1.1:53918 -> 192.168.1.35:80
+08/17/2020-15:26:17.276419 localhost [**] /app/kibana [**] Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:79.0) Gecko/20100101 Firefox/79.0 [**] 192.168.1.1:53918 -> 192.168.1.35:80
+08/17/2020-15:26:17.350515 kibana [**] /ui/favicons/apple-touch-icon.png [**] Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:79.0) Gecko/20100101 Firefox/79.0 [**] 192.168.1.35:57376 -> 192.168.1.30:5601
+08/17/2020-15:26:17.383836 kibana [**] /bundles/vendors.style.css [**] Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:79.0) Gecko/20100101 Firefox/79.0 [**] 192.168.1.35:57388 -> 192.168.1.30:5601
+08/17/2020-15:26:17.426712 kibana [**] /bundles/commons.style.css [**] Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:79.0) Gecko/20100101 Firefox/79.0 [**] 192.168.1.35:57398 -> 192.168.1.30:5601
+08/17/2020-15:26:17.336563 kibana [**] /bundles/app/kibana/bootstrap.js [**] Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:79.0) Gecko/20100101 Firefox/79.0 [**] 192.168.1.35:57374 -> 192.168.1.30:5601
+08/17/2020-15:26:17.384265 localhost [**] /bundles/vendors.style.css [**] Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:79.0) Gecko/20100101 Firefox/79.0 [**] 192.168.1.1:53936 -> 192.168.1.35:80
+08/17/2020-15:26:17.479381 kibana [**] /plugins/timelion/index.css [**] Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:79.0) Gecko/20100101 Firefox/79.0 [**] 192.168.1.35:57414 -> 192.168.1.30:5601
+08/17/2020-15:26:17.426982 localhost [**] /bundles/commons.style.css [**] Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:79.0) Gecko/20100101 Firefox/79.0 [**] 192.168.1.1:53936 -> 192.168.1.35:80
+08/17/2020-15:26:17.431400 localhost [**] /bundles/kibana.style.css [**] Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:79.0) Gecko/20100101 Firefox/79.0 [**] 192.168.1.1:53946 -> 192.168.1.35:80
+08/17/2020-15:26:17.490362 kibana [**] /plugins/tile_map/index.css [**] Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:79.0) Gecko/20100101 Firefox/79.0 [**] 192.168.1.35:57418 -> 192.168.1.30:5601
+08/17/2020-15:26:17.436744 localhost [**] /plugins/kibana/index.css [**] Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:79.0) Gecko/20100101 Firefox/79.0 [**] 192.168.1.1:53956 -> 192.168.1.35:80
+08/17/2020-15:26:17.479439 localhost [**] /plugins/timelion/index.css [**] Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:79.0) Gecko/20100101 Firefox/79.0 [**] 192.168.1.1:53936 -> 192.168.1.35:80
+08/17/2020-15:26:17.529901 kibana [**] /bundles/vendors.bundle.js [**] Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:79.0) Gecko/20100101 Firefox/79.0 [**] 192.168.1.35:57440 -> 192.168.1.30:5601
+08/17/2020-15:26:17.482975 kibana [**] /plugins/console/index.css [**] Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:79.0) Gecko/20100101 Firefox/79.0 [**] 192.168.1.35:57416 -> 192.168.1.30:5601
+08/17/2020-15:26:17.490397 localhost [**] /plugins/tile_map/index.css [**] Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:79.0) Gecko/20100101 Firefox/79.0 [**] 192.168.1.1:53946 -> 192.168.1.35:80
+08/17/2020-15:26:17.536460 kibana [**] /plugins/markdown_vis/index.css [**] Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:79.0) Gecko/20100101 Firefox/79.0 [**] 192.168.1.35:57436 -> 192.168.1.30:5601
+08/17/2020-15:26:17.495791 kibana [**] /plugins/table_vis/index.css [**] Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:79.0) Gecko/20100101 Firefox/79.0 [**] 192.168.1.35:57422 -> 192.168.1.30:5601
+08/17/2020-15:26:17.494446 kibana [**] /plugins/tagcloud/index.css [**] Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:79.0) Gecko/20100101 Firefox/79.0 [**] 192.168.1.35:57420 -> 192.168.1.30:5601
+08/17/2020-15:26:17.495822 localhost [**] /plugins/table_vis/index.css [**] Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:79.0) Gecko/20100101 Firefox/79.0 [**] 192.168.1.1:53956 -> 192.168.1.35:80
+08/17/2020-15:26:17.433526 localhost [**] /plugins/vega/index.css [**] Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:79.0) Gecko/20100101 Firefox/79.0 [**] 192.168.1.1:53944 -> 192.168.1.35:80
+08/17/2020-15:26:17.435916 kibana [**] /plugins/kibana/index.css [**] Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:79.0) Gecko/20100101 Firefox/79.0 [**] 192.168.1.35:57408 -> 192.168.1.30:5601
+08/17/2020-15:26:17.519545 kibana [**] /plugins/inspector_views/index.css [**] Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:79.0) Gecko/20100101 Firefox/79.0 [**] 192.168.1.35:57432 -> 192.168.1.30:5601
+08/17/2020-15:26:17.494476 localhost [**] /plugins/tagcloud/index.css [**] Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:79.0) Gecko/20100101 Firefox/79.0 [**] 192.168.1.1:53944 -> 192.168.1.35:80
+08/17/2020-15:26:17.355465 kibana [**] /ui/favicons/favicon-32x32.png [**] Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:79.0) Gecko/20100101 Firefox/79.0 [**] 192.168.1.35:57382 -> 192.168.1.30:5601
+08/17/2020-15:26:17.534118 localhost [**] /plugins/metric_vis/index.css [**] Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:79.0) Gecko/20100101 Firefox/79.0 [**] 192.168.1.1:53946 -> 192.168.1.35:80
+08/17/2020-15:26:17.433294 kibana [**] /plugins/vega/index.css [**] Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:79.0) Gecko/20100101 Firefox/79.0 [**] 192.168.1.35:57402 -> 192.168.1.30:5601
+08/17/2020-15:26:17.500233 localhost [**] /plugins/status_page/index.css [**] Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:79.0) Gecko/20100101 Firefox/79.0 [**] 192.168.1.1:53976 -> 192.168.1.35:80
+08/17/2020-15:26:17.537460 localhost [**] /plugins/input_control_vis/index.css [**] Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:79.0) Gecko/20100101 Firefox/79.0 [**] 192.168.1.1:53956 -> 192.168.1.35:80
+08/17/2020-15:26:17.530160 localhost [**] /bundles/vendors.bundle.js [**] Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:79.0) Gecko/20100101 Firefox/79.0 [**] 192.168.1.1:53976 -> 192.168.1.35:80
+08/17/2020-15:26:17.534182 kibana [**] /plugins/metric_vis/index.css [**] Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:79.0) Gecko/20100101 Firefox/79.0 [**] 192.168.1.35:57434 -> 192.168.1.30:5601
+08/17/2020-15:26:17.350023 localhost [**] /ui/favicons/favicon-32x32.png [**] Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:79.0) Gecko/20100101 Firefox/79.0 [**] 192.168.1.1:53930 -> 192.168.1.35:80
+08/17/2020-15:26:17.536488 localhost [**] /plugins/markdown_vis/index.css [**] Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:79.0) Gecko/20100101 Firefox/79.0 [**] 192.168.1.1:53944 -> 192.168.1.35:80
+08/17/2020-15:26:17.431072 kibana [**] /bundles/kibana.style.css [**] Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:79.0) Gecko/20100101 Firefox/79.0 [**] 192.168.1.35:57400 -> 192.168.1.30:5601
+08/17/2020-15:26:17.482930 localhost [**] /plugins/console/index.css [**] Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:79.0) Gecko/20100101 Firefox/79.0 [**] 192.168.1.1:53962 -> 192.168.1.35:80
+08/17/2020-15:26:17.484091 localhost [**] /plugins/inspector_views/index.css [**] Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:79.0) Gecko/20100101 Firefox/79.0 [**] 192.168.1.1:53962 -> 192.168.1.35:80
+08/17/2020-15:26:17.500203 kibana [**] /plugins/status_page/index.css [**] Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:79.0) Gecko/20100101 Firefox/79.0 [**] 192.168.1.35:57428 -> 192.168.1.30:5601
+08/17/2020-15:26:17.516321 kibana [**] /plugins/region_map/index.css [**] Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:79.0) Gecko/20100101 Firefox/79.0 [**] 192.168.1.35:57430 -> 192.168.1.30:5601
+08/17/2020-15:26:17.537355 kibana [**] /plugins/input_control_vis/index.css [**] Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:79.0) Gecko/20100101 Firefox/79.0 [**] 192.168.1.35:57438 -> 192.168.1.30:5601
+08/17/2020-15:26:18.235697 kibana [**] /bundles/commons.bundle.js [**] Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:79.0) Gecko/20100101 Firefox/79.0 [**] 192.168.1.35:57442 -> 192.168.1.30:5601
+08/17/2020-15:26:18.446224 kibana [**] /bundles/kibana.bundle.js [**] Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:79.0) Gecko/20100101 Firefox/79.0 [**] 192.168.1.35:57444 -> 192.168.1.30:5601
+08/17/2020-15:26:21.198078 kibana [**] /api/console/api_server?sense_version=%40%40SENSE_VERSION&apis=es_6_0 [**] Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:79.0) Gecko/20100101 Firefox/79.0 [**] 192.168.1.35:57446 -> 192.168.1.30:5601
+08/17/2020-15:26:21.851488 kibana [**] /plugins/kibana/assets/discover.svg [**] Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:79.0) Gecko/20100101 Firefox/79.0 [**] 192.168.1.35:57448 -> 192.168.1.30:5601
+08/17/2020-15:26:21.927998 kibana [**] /plugins/kibana/assets/wrench.svg [**] Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:79.0) Gecko/20100101 Firefox/79.0 [**] 192.168.1.35:57456 -> 192.168.1.30:5601
+08/17/2020-15:26:21.920417 kibana [**] /plugins/timelion/icon.svg [**] Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:79.0) Gecko/20100101 Firefox/79.0 [**] 192.168.1.35:57454 -> 192.168.1.30:5601
+08/17/2020-15:26:21.935309 kibana [**] /plugins/kibana/assets/play-circle.svg [**] Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:79.0) Gecko/20100101 Firefox/79.0 [**] 192.168.1.35:57460 -> 192.168.1.30:5601
+08/17/2020-15:26:21.915591 kibana [**] /plugins/kibana/assets/dashboard.svg [**] Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:79.0) Gecko/20100101 Firefox/79.0 [**] 192.168.1.35:57452 -> 192.168.1.30:5601
+08/17/2020-15:26:21.933694 kibana [**] /plugins/kibana/assets/settings.svg [**] Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:79.0) Gecko/20100101 Firefox/79.0 [**] 192.168.1.35:57458 -> 192.168.1.30:5601
+08/17/2020-15:26:21.928061 localhost [**] /plugins/kibana/assets/wrench.svg [**] Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:79.0) Gecko/20100101 Firefox/79.0 [**] 192.168.1.1:53944 -> 192.168.1.35:80
+08/17/2020-15:26:21.884221 localhost [**] /plugins/kibana/assets/dashboard.svg [**] Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:79.0) Gecko/20100101 Firefox/79.0 [**] 192.168.1.1:53962 -> 192.168.1.35:80
+08/17/2020-15:26:21.895586 kibana [**] /plugins/kibana/assets/visualize.svg [**] Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:79.0) Gecko/20100101 Firefox/79.0 [**] 192.168.1.35:57450 -> 192.168.1.30:5601
+08/17/2020-15:26:21.933783 localhost [**] /plugins/kibana/assets/settings.svg [**] Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:79.0) Gecko/20100101 Firefox/79.0 [**] 192.168.1.1:53956 -> 192.168.1.35:80
+08/17/2020-15:26:22.035296 kibana [**] /bundles/fa0bbd682c66f1187d48f74b33b5bbd0.svg [**] Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:79.0) Gecko/20100101 Firefox/79.0 [**] 192.168.1.35:57464 -> 192.168.1.30:5601
+08/17/2020-15:26:22.359413 kibana [**] /api/saved_objects/_find?type=index-pattern&fields=title&search=*&search_fields=title&per_page=1 [**] Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:79.0) Gecko/20100101 Firefox/79.0 [**] 192.168.1.35:57466 -> 192.168.1.30:5601
+08/17/2020-15:26:22.026849 kibana [**] /api/saved_objects/_find?type=index-pattern&per_page=10000 [**] Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:79.0) Gecko/20100101 Firefox/79.0 [**] 192.168.1.35:57462 -> 192.168.1.30:5601
+08/17/2020-15:37:05.060097 archive.ubuntu.com [**] /ubuntu/dists/xenial/InRelease [**] Debian APT-HTTP/1.3 (1.2.29) [**] 192.168.1.80:56670 -> 91.189.88.152:80
+08/17/2020-15:37:05.102808 security.ubuntu.com [**] /ubuntu/dists/xenial-security/InRelease [**] Debian APT-HTTP/1.3 (1.2.29) [**] 192.168.1.80:37248 -> 91.189.88.142:80
+08/17/2020-15:37:05.110199 archive.ubuntu.com [**] /ubuntu/dists/xenial-updates/InRelease [**] Debian APT-HTTP/1.3 (1.2.29) [**] 192.168.1.80:56670 -> 91.189.88.152:80
+08/17/2020-15:37:05.551869 security.ubuntu.com [**] /ubuntu/dists/xenial-security/main/binary-amd64/by-hash/SHA256/95ff120db9018e9c7394c868d4444d96110a70af0471f15db11a61936aece354 [**] Debian APT-HTTP/1.3 (1.2.29) [**] 192.168.1.80:37248 -> 91.189.88.142:80
+08/17/2020-15:37:05.774152 security.ubuntu.com [**] /ubuntu/dists/xenial-security/universe/binary-amd64/by-hash/SHA256/70becebaa218477bc098247f522750132020f5b8a04a9d59623cd9ff1c6e5ae4 [**] Debian APT-HTTP/1.3 (1.2.29) [**] 192.168.1.80:37248 -> 91.189.88.142:80
+08/17/2020-15:37:05.774152 security.ubuntu.com [**] /ubuntu/dists/xenial-security/multiverse/binary-amd64/by-hash/SHA256/50a982ffe59f2e840db882d8b916895898d828b3c89efe1f6e98ef7e3e3c8ec1 [**] Debian APT-HTTP/1.3 (1.2.29) [**] 192.168.1.80:37248 -> 91.189.88.142:80
+08/17/2020-15:37:06.404175 archive.ubuntu.com [**] /ubuntu/dists/xenial/InRelease [**] Debian APT-HTTP/1.3 (1.2.29) [**] 192.168.1.70:59904 -> 91.189.88.152:80
+08/17/2020-15:37:06.456150 archive.ubuntu.com [**] /ubuntu/dists/xenial-updates/InRelease [**] Debian APT-HTTP/1.3 (1.2.29) [**] 192.168.1.70:59904 -> 91.189.88.152:80
+08/17/2020-15:37:06.517418 security.ubuntu.com [**] /ubuntu/dists/xenial-security/InRelease [**] Debian APT-HTTP/1.3 (1.2.29) [**] 192.168.1.70:37496 -> 91.189.91.39:80
+08/17/2020-15:37:07.208648 security.ubuntu.com [**] /ubuntu/dists/xenial-security/main/binary-amd64/by-hash/SHA256/95ff120db9018e9c7394c868d4444d96110a70af0471f15db11a61936aece354 [**] Debian APT-HTTP/1.3 (1.2.29) [**] 192.168.1.70:37496 -> 91.189.91.39:80
+08/17/2020-15:37:07.694202 security.ubuntu.com [**] /ubuntu/dists/xenial-security/universe/binary-amd64/by-hash/SHA256/70becebaa218477bc098247f522750132020f5b8a04a9d59623cd9ff1c6e5ae4 [**] Debian APT-HTTP/1.3 (1.2.29) [**] 192.168.1.70:37496 -> 91.189.91.39:80
+08/17/2020-15:37:07.694202 security.ubuntu.com [**] /ubuntu/dists/xenial-security/multiverse/binary-amd64/by-hash/SHA256/50a982ffe59f2e840db882d8b916895898d828b3c89efe1f6e98ef7e3e3c8ec1 [**] Debian APT-HTTP/1.3 (1.2.29) [**] 192.168.1.70:37496 -> 91.189.91.39:80
+08/17/2020-15:37:54.206125 archive.ubuntu.com [**] /ubuntu/pool/main/b/base-files/base-files_9.4ubuntu4.12_amd64.deb [**] Debian APT-HTTP/1.3 (1.2.29) [**] 192.168.1.80:56678 -> 91.189.88.152:80
+08/17/2020-15:37:54.390641 archive.ubuntu.com [**] /ubuntu/pool/main/b/bash/bash_4.3-14ubuntu1.4_amd64.deb [**] Debian APT-HTTP/1.3 (1.2.29) [**] 192.168.1.80:56678 -> 91.189.88.152:80
+08/17/2020-15:37:54.390641 archive.ubuntu.com [**] /ubuntu/pool/main/u/util-linux/bsdutils_2.27.1-6ubuntu3.10_amd64.deb [**] Debian APT-HTTP/1.3 (1.2.29) [**] 192.168.1.80:56678 -> 91.189.88.152:80
+08/17/2020-15:37:54.390641 archive.ubuntu.com [**] /ubuntu/pool/main/d/dpkg/dpkg_1.18.4ubuntu1.6_amd64.deb [**] Debian APT-HTTP/1.3 (1.2.29) [**] 192.168.1.80:56678 -> 91.189.88.152:80
+08/17/2020-15:37:54.390641 archive.ubuntu.com [**] /ubuntu/pool/main/g/glibc/libc6-dev_2.23-0ubuntu11.2_amd64.deb [**] Debian APT-HTTP/1.3 (1.2.29) [**] 192.168.1.80:56678 -> 91.189.88.152:80
+08/17/2020-15:37:54.390641 archive.ubuntu.com [**] /ubuntu/pool/main/g/glibc/libc-dev-bin_2.23-0ubuntu11.2_amd64.deb [**] Debian APT-HTTP/1.3 (1.2.29) [**] 192.168.1.80:56678 -> 91.189.88.152:80
+08/17/2020-15:37:54.390641 archive.ubuntu.com [**] /ubuntu/pool/main/l/linux/linux-libc-dev_4.4.0-187.217_amd64.deb [**] Debian APT-HTTP/1.3 (1.2.29) [**] 192.168.1.80:56678 -> 91.189.88.152:80
+08/17/2020-15:37:54.390641 archive.ubuntu.com [**] /ubuntu/pool/main/g/glibc/libc6_2.23-0ubuntu11.2_amd64.deb [**] Debian APT-HTTP/1.3 (1.2.29) [**] 192.168.1.80:56678 -> 91.189.88.152:80
+08/17/2020-15:37:54.390641 archive.ubuntu.com [**] /ubuntu/pool/main/e/e2fsprogs/e2fslibs_1.42.13-1ubuntu1.2_amd64.deb [**] Debian APT-HTTP/1.3 (1.2.29) [**] 192.168.1.80:56678 -> 91.189.88.152:80
+08/17/2020-15:37:54.390641 archive.ubuntu.com [**] /ubuntu/pool/main/e/e2fsprogs/e2fsprogs_1.42.13-1ubuntu1.2_amd64.deb [**] Debian APT-HTTP/1.3 (1.2.29) [**] 192.168.1.80:56678 -> 91.189.88.152:80
+08/17/2020-15:37:54.423840 archive.ubuntu.com [**] /ubuntu/pool/main/s/shadow/login_4.2-3.1ubuntu5.4_amd64.deb [**] Debian APT-HTTP/1.3 (1.2.29) [**] 192.168.1.80:56678 -> 91.189.88.152:80
+08/17/2020-15:37:54.576711 archive.ubuntu.com [**] /ubuntu/pool/main/u/util-linux/util-linux_2.27.1-6ubuntu3.10_amd64.deb [**] Debian APT-HTTP/1.3 (1.2.29) [**] 192.168.1.80:56678 -> 91.189.88.152:80
+08/17/2020-15:37:54.684741 archive.ubuntu.com [**] /ubuntu/pool/main/u/util-linux/mount_2.27.1-6ubuntu3.10_amd64.deb [**] Debian APT-HTTP/1.3 (1.2.29) [**] 192.168.1.80:56678 -> 91.189.88.152:80
+08/17/2020-15:37:54.855386 archive.ubuntu.com [**] /ubuntu/pool/main/g/glibc/libc-bin_2.23-0ubuntu11.2_amd64.deb [**] Debian APT-HTTP/1.3 (1.2.29) [**] 192.168.1.80:56678 -> 91.189.88.152:80
+08/17/2020-15:37:54.876957 archive.ubuntu.com [**] /ubuntu/pool/main/b/bzip2/libbz2-1.0_1.0.6-8ubuntu0.2_amd64.deb [**] Debian APT-HTTP/1.3 (1.2.29) [**] 192.168.1.80:56678 -> 91.189.88.152:80
+08/17/2020-15:37:54.876957 archive.ubuntu.com [**] /ubuntu/pool/main/g/gcc-5/libquadmath0_5.4.0-6ubuntu1%7e16.04.12_amd64.deb [**] Debian APT-HTTP/1.3 (1.2.29) [**] 192.168.1.80:56678 -> 91.189.88.152:80
+08/17/2020-15:37:54.992932 archive.ubuntu.com [**] /ubuntu/pool/main/g/gcc-5/libitm1_5.4.0-6ubuntu1%7e16.04.12_amd64.deb [**] Debian APT-HTTP/1.3 (1.2.29) [**] 192.168.1.80:56678 -> 91.189.88.152:80
+08/17/2020-15:37:55.260950 archive.ubuntu.com [**] /ubuntu/pool/main/g/gcc-5/libcc1-0_5.4.0-6ubuntu1%7e16.04.12_amd64.deb [**] Debian APT-HTTP/1.3 (1.2.29) [**] 192.168.1.80:56678 -> 91.189.88.152:80
+08/17/2020-15:37:55.309528 archive.ubuntu.com [**] /ubuntu/pool/main/g/gcc-5/libgomp1_5.4.0-6ubuntu1%7e16.04.12_amd64.deb [**] Debian APT-HTTP/1.3 (1.2.29) [**] 192.168.1.80:56678 -> 91.189.88.152:80
+08/17/2020-15:37:55.498627 archive.ubuntu.com [**] /ubuntu/pool/main/g/gcc-5/libatomic1_5.4.0-6ubuntu1%7e16.04.12_amd64.deb [**] Debian APT-HTTP/1.3 (1.2.29) [**] 192.168.1.80:56678 -> 91.189.88.152:80
+08/17/2020-15:37:55.498627 archive.ubuntu.com [**] /ubuntu/pool/main/g/gcc-5/libasan2_5.4.0-6ubuntu1%7e16.04.12_amd64.deb [**] Debian APT-HTTP/1.3 (1.2.29) [**] 192.168.1.80:56678 -> 91.189.88.152:80
+08/17/2020-15:37:55.498627 archive.ubuntu.com [**] /ubuntu/pool/main/g/gcc-5/liblsan0_5.4.0-6ubuntu1%7e16.04.12_amd64.deb [**] Debian APT-HTTP/1.3 (1.2.29) [**] 192.168.1.80:56678 -> 91.189.88.152:80
+08/17/2020-15:37:55.498627 archive.ubuntu.com [**] /ubuntu/pool/main/g/gcc-5/libtsan0_5.4.0-6ubuntu1%7e16.04.12_amd64.deb [**] Debian APT-HTTP/1.3 (1.2.29) [**] 192.168.1.80:56678 -> 91.189.88.152:80
+08/17/2020-15:37:55.549085 archive.ubuntu.com [**] /ubuntu/pool/main/g/gcc-5/libubsan0_5.4.0-6ubuntu1%7e16.04.12_amd64.deb [**] Debian APT-HTTP/1.3 (1.2.29) [**] 192.168.1.80:56678 -> 91.189.88.152:80
+08/17/2020-15:37:55.549085 archive.ubuntu.com [**] /ubuntu/pool/main/g/gcc-5/libcilkrts5_5.4.0-6ubuntu1%7e16.04.12_amd64.deb [**] Debian APT-HTTP/1.3 (1.2.29) [**] 192.168.1.80:56678 -> 91.189.88.152:80
+08/17/2020-15:37:55.549085 archive.ubuntu.com [**] /ubuntu/pool/main/g/gcc-5/libmpx0_5.4.0-6ubuntu1%7e16.04.12_amd64.deb [**] Debian APT-HTTP/1.3 (1.2.29) [**] 192.168.1.80:56678 -> 91.189.88.152:80
+08/17/2020-15:37:55.549085 archive.ubuntu.com [**] /ubuntu/pool/main/g/gcc-5/gcc-5_5.4.0-6ubuntu1%7e16.04.12_amd64.deb [**] Debian APT-HTTP/1.3 (1.2.29) [**] 192.168.1.80:56678 -> 91.189.88.152:80
+08/17/2020-15:37:55.549085 archive.ubuntu.com [**] /ubuntu/pool/main/g/gcc-5/libgcc-5-dev_5.4.0-6ubuntu1%7e16.04.12_amd64.deb [**] Debian APT-HTTP/1.3 (1.2.29) [**] 192.168.1.80:56678 -> 91.189.88.152:80
+08/17/2020-15:37:55.549085 archive.ubuntu.com [**] /ubuntu/pool/main/z/zlib/zlib1g_1.2.8.dfsg-2ubuntu4.3_amd64.deb [**] Debian APT-HTTP/1.3 (1.2.29) [**] 192.168.1.80:56678 -> 91.189.88.152:80
+08/17/2020-15:37:55.549085 archive.ubuntu.com [**] /ubuntu/pool/main/g/gcc-5/cpp-5_5.4.0-6ubuntu1%7e16.04.12_amd64.deb [**] Debian APT-HTTP/1.3 (1.2.29) [**] 192.168.1.80:56678 -> 91.189.88.152:80
+08/17/2020-15:37:55.740791 archive.ubuntu.com [**] /ubuntu/pool/main/g/gcc-5/gcc-5-base_5.4.0-6ubuntu1%7e16.04.12_amd64.deb [**] Debian APT-HTTP/1.3 (1.2.29) [**] 192.168.1.80:56678 -> 91.189.88.152:80
+08/17/2020-15:37:55.740791 archive.ubuntu.com [**] /ubuntu/pool/main/g/gcc-5/libstdc%2b%2b6_5.4.0-6ubuntu1%7e16.04.12_amd64.deb [**] Debian APT-HTTP/1.3 (1.2.29) [**] 192.168.1.80:56678 -> 91.189.88.152:80
+08/17/2020-15:37:55.789538 archive.ubuntu.com [**] /ubuntu/pool/main/a/apparmor/libapparmor1_2.10.95-0ubuntu2.11_amd64.deb [**] Debian APT-HTTP/1.3 (1.2.29) [**] 192.168.1.80:56678 -> 91.189.88.152:80
+08/17/2020-15:37:55.789538 archive.ubuntu.com [**] /ubuntu/pool/main/s/shadow/passwd_4.2-3.1ubuntu5.4_amd64.deb [**] Debian APT-HTTP/1.3 (1.2.29) [**] 192.168.1.80:56678 -> 91.189.88.152:80
+08/17/2020-15:37:55.789538 archive.ubuntu.com [**] /ubuntu/pool/main/u/util-linux/libuuid1_2.27.1-6ubuntu3.10_amd64.deb [**] Debian APT-HTTP/1.3 (1.2.29) [**] 192.168.1.80:56678 -> 91.189.88.152:80
+08/17/2020-15:37:55.789538 archive.ubuntu.com [**] /ubuntu/pool/main/u/util-linux/libblkid1_2.27.1-6ubuntu3.10_amd64.deb [**] Debian APT-HTTP/1.3 (1.2.29) [**] 192.168.1.80:56678 -> 91.189.88.152:80
+08/17/2020-15:37:56.320337 archive.ubuntu.com [**] /ubuntu/pool/main/k/kmod/libkmod2_22-1ubuntu5.2_amd64.deb [**] Debian APT-HTTP/1.3 (1.2.29) [**] 192.168.1.80:56678 -> 91.189.88.152:80
+08/17/2020-15:37:56.491619 archive.ubuntu.com [**] /ubuntu/pool/main/u/util-linux/libmount1_2.27.1-6ubuntu3.10_amd64.deb [**] Debian APT-HTTP/1.3 (1.2.29) [**] 192.168.1.80:56678 -> 91.189.88.152:80
+08/17/2020-15:37:56.530522 archive.ubuntu.com [**] /ubuntu/pool/main/libs/libseccomp/libseccomp2_2.4.3-1ubuntu3.16.04.3_amd64.deb [**] Debian APT-HTTP/1.3 (1.2.29) [**] 192.168.1.80:56678 -> 91.189.88.152:80
+08/17/2020-15:37:56.608276 archive.ubuntu.com [**] /ubuntu/pool/main/b/base-files/base-files_9.4ubuntu4.12_amd64.deb [**] Debian APT-HTTP/1.3 (1.2.29) [**] 192.168.1.70:53730 -> 91.189.88.142:80
+08/17/2020-15:37:56.781959 archive.ubuntu.com [**] /ubuntu/pool/main/b/bash/bash_4.3-14ubuntu1.4_amd64.deb [**] Debian APT-HTTP/1.3 (1.2.29) [**] 192.168.1.70:53730 -> 91.189.88.142:80
+08/17/2020-15:37:56.781959 archive.ubuntu.com [**] /ubuntu/pool/main/u/util-linux/bsdutils_2.27.1-6ubuntu3.10_amd64.deb [**] Debian APT-HTTP/1.3 (1.2.29) [**] 192.168.1.70:53730 -> 91.189.88.142:80
+08/17/2020-15:37:56.781959 archive.ubuntu.com [**] /ubuntu/pool/main/d/dpkg/dpkg_1.18.4ubuntu1.6_amd64.deb [**] Debian APT-HTTP/1.3 (1.2.29) [**] 192.168.1.70:53730 -> 91.189.88.142:80
+08/17/2020-15:37:56.781959 archive.ubuntu.com [**] /ubuntu/pool/main/g/glibc/libc6-dev_2.23-0ubuntu11.2_amd64.deb [**] Debian APT-HTTP/1.3 (1.2.29) [**] 192.168.1.70:53730 -> 91.189.88.142:80
+08/17/2020-15:37:56.781959 archive.ubuntu.com [**] /ubuntu/pool/main/g/glibc/libc-dev-bin_2.23-0ubuntu11.2_amd64.deb [**] Debian APT-HTTP/1.3 (1.2.29) [**] 192.168.1.70:53730 -> 91.189.88.142:80
+08/17/2020-15:37:56.781959 archive.ubuntu.com [**] /ubuntu/pool/main/l/linux/linux-libc-dev_4.4.0-187.217_amd64.deb [**] Debian APT-HTTP/1.3 (1.2.29) [**] 192.168.1.70:53730 -> 91.189.88.142:80
+08/17/2020-15:37:56.781959 archive.ubuntu.com [**] /ubuntu/pool/main/g/glibc/libc6_2.23-0ubuntu11.2_amd64.deb [**] Debian APT-HTTP/1.3 (1.2.29) [**] 192.168.1.70:53730 -> 91.189.88.142:80
+08/17/2020-15:37:56.781959 archive.ubuntu.com [**] /ubuntu/pool/main/e/e2fsprogs/e2fslibs_1.42.13-1ubuntu1.2_amd64.deb [**] Debian APT-HTTP/1.3 (1.2.29) [**] 192.168.1.70:53730 -> 91.189.88.142:80
+08/17/2020-15:37:56.781959 archive.ubuntu.com [**] /ubuntu/pool/main/e/e2fsprogs/e2fsprogs_1.42.13-1ubuntu1.2_amd64.deb [**] Debian APT-HTTP/1.3 (1.2.29) [**] 192.168.1.70:53730 -> 91.189.88.142:80
+08/17/2020-15:37:56.816069 archive.ubuntu.com [**] /ubuntu/pool/main/s/shadow/login_4.2-3.1ubuntu5.4_amd64.deb [**] Debian APT-HTTP/1.3 (1.2.29) [**] 192.168.1.70:53730 -> 91.189.88.142:80
+08/17/2020-15:37:56.987510 archive.ubuntu.com [**] /ubuntu/pool/main/s/systemd/libsystemd0_229-4ubuntu21.28_amd64.deb [**] Debian APT-HTTP/1.3 (1.2.29) [**] 192.168.1.80:56678 -> 91.189.88.152:80
+08/17/2020-15:37:57.043602 archive.ubuntu.com [**] /ubuntu/pool/main/s/systemd/systemd_229-4ubuntu21.28_amd64.deb [**] Debian APT-HTTP/1.3 (1.2.29) [**] 192.168.1.80:56678 -> 91.189.88.152:80
+08/17/2020-15:37:57.167493 archive.ubuntu.com [**] /ubuntu/pool/main/a/apt/libapt-pkg5.0_1.2.32ubuntu0.1_amd64.deb [**] Debian APT-HTTP/1.3 (1.2.29) [**] 192.168.1.80:56678 -> 91.189.88.152:80
+08/17/2020-15:37:57.167493 archive.ubuntu.com [**] /ubuntu/pool/main/u/ubuntu-keyring/ubuntu-keyring_2012.05.19.1_all.deb [**] Debian APT-HTTP/1.3 (1.2.29) [**] 192.168.1.80:56678 -> 91.189.88.152:80
+08/17/2020-15:37:57.167493 archive.ubuntu.com [**] /ubuntu/pool/main/a/apt/apt_1.2.32ubuntu0.1_amd64.deb [**] Debian APT-HTTP/1.3 (1.2.29) [**] 192.168.1.80:56678 -> 91.189.88.152:80
+08/17/2020-15:37:57.167493 archive.ubuntu.com [**] /ubuntu/pool/main/d/debconf/debconf_1.5.58ubuntu2_all.deb [**] Debian APT-HTTP/1.3 (1.2.29) [**] 192.168.1.80:56678 -> 91.189.88.152:80
+08/17/2020-15:37:57.167493 archive.ubuntu.com [**] /ubuntu/pool/main/s/systemd/systemd-sysv_229-4ubuntu21.28_amd64.deb [**] Debian APT-HTTP/1.3 (1.2.29) [**] 192.168.1.80:56678 -> 91.189.88.152:80
+08/17/2020-15:37:57.334590 archive.ubuntu.com [**] /ubuntu/pool/main/u/util-linux/util-linux_2.27.1-6ubuntu3.10_amd64.deb [**] Debian APT-HTTP/1.3 (1.2.29) [**] 192.168.1.70:53730 -> 91.189.88.142:80
+08/17/2020-15:37:57.334417 archive.ubuntu.com [**] /ubuntu/pool/main/e/e2fsprogs/libcomerr2_1.42.13-1ubuntu1.2_amd64.deb [**] Debian APT-HTTP/1.3 (1.2.29) [**] 192.168.1.80:56678 -> 91.189.88.152:80
+08/17/2020-15:37:57.334417 archive.ubuntu.com [**] /ubuntu/pool/main/d/db5.3/libdb5.3_5.3.28-11ubuntu0.2_amd64.deb [**] Debian APT-HTTP/1.3 (1.2.29) [**] 192.168.1.80:56678 -> 91.189.88.152:80
+08/17/2020-15:37:57.416393 archive.ubuntu.com [**] /ubuntu/pool/main/u/util-linux/mount_2.27.1-6ubuntu3.10_amd64.deb [**] Debian APT-HTTP/1.3 (1.2.29) [**] 192.168.1.70:53730 -> 91.189.88.142:80
+08/17/2020-15:37:57.438015 archive.ubuntu.com [**] /ubuntu/pool/main/u/util-linux/libfdisk1_2.27.1-6ubuntu3.10_amd64.deb [**] Debian APT-HTTP/1.3 (1.2.29) [**] 192.168.1.80:56678 -> 91.189.88.152:80
+08/17/2020-15:37:57.438015 archive.ubuntu.com [**] /ubuntu/pool/main/libg/libgcrypt20/libgcrypt20_1.6.5-2ubuntu0.6_amd64.deb [**] Debian APT-HTTP/1.3 (1.2.29) [**] 192.168.1.80:56678 -> 91.189.88.152:80
+08/17/2020-15:37:57.701262 archive.ubuntu.com [**] /ubuntu/pool/main/u/util-linux/libsmartcols1_2.27.1-6ubuntu3.10_amd64.deb [**] Debian APT-HTTP/1.3 (1.2.29) [**] 192.168.1.80:56678 -> 91.189.88.152:80
+08/17/2020-15:37:57.812821 archive.ubuntu.com [**] /ubuntu/pool/main/e/e2fsprogs/libss2_1.42.13-1ubuntu1.2_amd64.deb [**] Debian APT-HTTP/1.3 (1.2.29) [**] 192.168.1.80:56678 -> 91.189.88.152:80
+08/17/2020-15:37:57.898670 archive.ubuntu.com [**] /ubuntu/pool/main/s/systemd/libudev1_229-4ubuntu21.28_amd64.deb [**] Debian APT-HTTP/1.3 (1.2.29) [**] 192.168.1.80:56678 -> 91.189.88.152:80
+08/17/2020-15:37:58.037531 archive.ubuntu.com [**] /ubuntu/pool/main/g/glibc/libc-bin_2.23-0ubuntu11.2_amd64.deb [**] Debian APT-HTTP/1.3 (1.2.29) [**] 192.168.1.70:53730 -> 91.189.88.142:80
+08/17/2020-15:37:58.053836 archive.ubuntu.com [**] /ubuntu/pool/main/g/glibc/multiarch-support_2.23-0ubuntu11.2_amd64.deb [**] Debian APT-HTTP/1.3 (1.2.29) [**] 192.168.1.80:56678 -> 91.189.88.152:80
+08/17/2020-15:37:58.053836 archive.ubuntu.com [**] /ubuntu/pool/main/p/procps/libprocps4_3.3.10-4ubuntu2.5_amd64.deb [**] Debian APT-HTTP/1.3 (1.2.29) [**] 192.168.1.80:56678 -> 91.189.88.152:80
+08/17/2020-15:37:58.053836 archive.ubuntu.com [**] /ubuntu/pool/main/p/procps/procps_3.3.10-4ubuntu2.5_amd64.deb [**] Debian APT-HTTP/1.3 (1.2.29) [**] 192.168.1.80:56678 -> 91.189.88.152:80
+08/17/2020-15:37:58.053836 archive.ubuntu.com [**] /ubuntu/pool/main/b/bind9/libisc-export160_9.10.3.dfsg.P4-8ubuntu1.16_amd64.deb [**] Debian APT-HTTP/1.3 (1.2.29) [**] 192.168.1.80:56678 -> 91.189.88.152:80
+08/17/2020-15:37:58.053836 archive.ubuntu.com [**] /ubuntu/pool/main/b/bind9/libdns-export162_9.10.3.dfsg.P4-8ubuntu1.16_amd64.deb [**] Debian APT-HTTP/1.3 (1.2.29) [**] 192.168.1.80:56678 -> 91.189.88.152:80
+08/17/2020-15:37:58.588629 archive.ubuntu.com [**] /ubuntu/pool/main/b/bzip2/libbz2-1.0_1.0.6-8ubuntu0.2_amd64.deb [**] Debian APT-HTTP/1.3 (1.2.29) [**] 192.168.1.70:53730 -> 91.189.88.142:80
+08/17/2020-15:37:58.659183 archive.ubuntu.com [**] /ubuntu/pool/main/g/gcc-5/libquadmath0_5.4.0-6ubuntu1%7e16.04.12_amd64.deb [**] Debian APT-HTTP/1.3 (1.2.29) [**] 192.168.1.70:53730 -> 91.189.88.142:80
+08/17/2020-15:37:58.789836 archive.ubuntu.com [**] /ubuntu/pool/main/g/gcc-5/libitm1_5.4.0-6ubuntu1%7e16.04.12_amd64.deb [**] Debian APT-HTTP/1.3 (1.2.29) [**] 192.168.1.70:53730 -> 91.189.88.142:80
+08/17/2020-15:37:59.239050 archive.ubuntu.com [**] /ubuntu/pool/main/g/gcc-5/libcc1-0_5.4.0-6ubuntu1%7e16.04.12_amd64.deb [**] Debian APT-HTTP/1.3 (1.2.29) [**] 192.168.1.70:53730 -> 91.189.88.142:80
+08/17/2020-15:37:59.271389 archive.ubuntu.com [**] /ubuntu/pool/main/g/gcc-5/libgomp1_5.4.0-6ubuntu1%7e16.04.12_amd64.deb [**] Debian APT-HTTP/1.3 (1.2.29) [**] 192.168.1.70:53730 -> 91.189.88.142:80
+08/17/2020-15:37:59.357466 archive.ubuntu.com [**] /ubuntu/pool/main/g/gcc-5/libatomic1_5.4.0-6ubuntu1%7e16.04.12_amd64.deb [**] Debian APT-HTTP/1.3 (1.2.29) [**] 192.168.1.70:53730 -> 91.189.88.142:80
+08/17/2020-15:37:59.448836 archive.ubuntu.com [**] /ubuntu/pool/main/g/gcc-5/libasan2_5.4.0-6ubuntu1%7e16.04.12_amd64.deb [**] Debian APT-HTTP/1.3 (1.2.29) [**] 192.168.1.70:53730 -> 91.189.88.142:80
+08/17/2020-15:37:59.534511 archive.ubuntu.com [**] /ubuntu/pool/main/g/gcc-5/liblsan0_5.4.0-6ubuntu1%7e16.04.12_amd64.deb [**] Debian APT-HTTP/1.3 (1.2.29) [**] 192.168.1.70:53730 -> 91.189.88.142:80
+08/17/2020-15:37:59.675781 archive.ubuntu.com [**] /ubuntu/pool/main/g/gcc-5/libtsan0_5.4.0-6ubuntu1%7e16.04.12_amd64.deb [**] Debian APT-HTTP/1.3 (1.2.29) [**] 192.168.1.70:53730 -> 91.189.88.142:80
+08/17/2020-15:37:59.796076 archive.ubuntu.com [**] /ubuntu/pool/main/g/gcc-5/libubsan0_5.4.0-6ubuntu1%7e16.04.12_amd64.deb [**] Debian APT-HTTP/1.3 (1.2.29) [**] 192.168.1.70:53730 -> 91.189.88.142:80
+08/17/2020-15:37:59.796076 archive.ubuntu.com [**] /ubuntu/pool/main/g/gcc-5/libcilkrts5_5.4.0-6ubuntu1%7e16.04.12_amd64.deb [**] Debian APT-HTTP/1.3 (1.2.29) [**] 192.168.1.70:53730 -> 91.189.88.142:80
+08/17/2020-15:37:59.796076 archive.ubuntu.com [**] /ubuntu/pool/main/g/gcc-5/libmpx0_5.4.0-6ubuntu1%7e16.04.12_amd64.deb [**] Debian APT-HTTP/1.3 (1.2.29) [**] 192.168.1.70:53730 -> 91.189.88.142:80
+08/17/2020-15:37:59.796076 archive.ubuntu.com [**] /ubuntu/pool/main/g/gcc-5/gcc-5_5.4.0-6ubuntu1%7e16.04.12_amd64.deb [**] Debian APT-HTTP/1.3 (1.2.29) [**] 192.168.1.70:53730 -> 91.189.88.142:80
+08/17/2020-15:37:59.796076 archive.ubuntu.com [**] /ubuntu/pool/main/g/gcc-5/libgcc-5-dev_5.4.0-6ubuntu1%7e16.04.12_amd64.deb [**] Debian APT-HTTP/1.3 (1.2.29) [**] 192.168.1.70:53730 -> 91.189.88.142:80
+08/17/2020-15:37:59.796076 archive.ubuntu.com [**] /ubuntu/pool/main/z/zlib/zlib1g_1.2.8.dfsg-2ubuntu4.3_amd64.deb [**] Debian APT-HTTP/1.3 (1.2.29) [**] 192.168.1.70:53730 -> 91.189.88.142:80
+08/17/2020-15:37:59.796076 archive.ubuntu.com [**] /ubuntu/pool/main/g/gcc-5/cpp-5_5.4.0-6ubuntu1%7e16.04.12_amd64.deb [**] Debian APT-HTTP/1.3 (1.2.29) [**] 192.168.1.70:53730 -> 91.189.88.142:80
+08/17/2020-15:37:59.796076 archive.ubuntu.com [**] /ubuntu/pool/main/g/gcc-5/gcc-5-base_5.4.0-6ubuntu1%7e16.04.12_amd64.deb [**] Debian APT-HTTP/1.3 (1.2.29) [**] 192.168.1.70:53730 -> 91.189.88.142:80
+08/17/2020-15:37:59.796076 archive.ubuntu.com [**] /ubuntu/pool/main/g/gcc-5/libstdc%2b%2b6_5.4.0-6ubuntu1%7e16.04.12_amd64.deb [**] Debian APT-HTTP/1.3 (1.2.29) [**] 192.168.1.70:53730 -> 91.189.88.142:80
+08/17/2020-15:37:59.847069 archive.ubuntu.com [**] /ubuntu/pool/main/a/apparmor/libapparmor1_2.10.95-0ubuntu2.11_amd64.deb [**] Debian APT-HTTP/1.3 (1.2.29) [**] 192.168.1.70:53730 -> 91.189.88.142:80
+08/17/2020-15:37:59.847069 archive.ubuntu.com [**] /ubuntu/pool/main/s/shadow/passwd_4.2-3.1ubuntu5.4_amd64.deb [**] Debian APT-HTTP/1.3 (1.2.29) [**] 192.168.1.70:53730 -> 91.189.88.142:80
+08/17/2020-15:37:59.847069 archive.ubuntu.com [**] /ubuntu/pool/main/u/util-linux/libuuid1_2.27.1-6ubuntu3.10_amd64.deb [**] Debian APT-HTTP/1.3 (1.2.29) [**] 192.168.1.70:53730 -> 91.189.88.142:80
+08/17/2020-15:37:59.847069 archive.ubuntu.com [**] /ubuntu/pool/main/u/util-linux/libblkid1_2.27.1-6ubuntu3.10_amd64.deb [**] Debian APT-HTTP/1.3 (1.2.29) [**] 192.168.1.70:53730 -> 91.189.88.142:80
+08/17/2020-15:38:00.964489 archive.ubuntu.com [**] /ubuntu/pool/main/k/kmod/libkmod2_22-1ubuntu5.2_amd64.deb [**] Debian APT-HTTP/1.3 (1.2.29) [**] 192.168.1.70:53730 -> 91.189.88.142:80
+08/17/2020-15:38:01.257283 archive.ubuntu.com [**] /ubuntu/pool/main/u/util-linux/libmount1_2.27.1-6ubuntu3.10_amd64.deb [**] Debian APT-HTTP/1.3 (1.2.29) [**] 192.168.1.70:53730 -> 91.189.88.142:80
+08/17/2020-15:38:01.334357 archive.ubuntu.com [**] /ubuntu/pool/main/libs/libseccomp/libseccomp2_2.4.3-1ubuntu3.16.04.3_amd64.deb [**] Debian APT-HTTP/1.3 (1.2.29) [**] 192.168.1.70:53730 -> 91.189.88.142:80
+08/17/2020-15:38:02.209005 archive.ubuntu.com [**] /ubuntu/pool/main/s/systemd/libsystemd0_229-4ubuntu21.28_amd64.deb [**] Debian APT-HTTP/1.3 (1.2.29) [**] 192.168.1.70:53730 -> 91.189.88.142:80
+08/17/2020-15:38:02.209005 archive.ubuntu.com [**] /ubuntu/pool/main/s/systemd/systemd_229-4ubuntu21.28_amd64.deb [**] Debian APT-HTTP/1.3 (1.2.29) [**] 192.168.1.70:53730 -> 91.189.88.142:80
+08/17/2020-15:38:02.387395 archive.ubuntu.com [**] /ubuntu/pool/main/a/apt/libapt-pkg5.0_1.2.32ubuntu0.1_amd64.deb [**] Debian APT-HTTP/1.3 (1.2.29) [**] 192.168.1.70:53730 -> 91.189.88.142:80
+08/17/2020-15:38:02.387395 archive.ubuntu.com [**] /ubuntu/pool/main/u/ubuntu-keyring/ubuntu-keyring_2012.05.19.1_all.deb [**] Debian APT-HTTP/1.3 (1.2.29) [**] 192.168.1.70:53730 -> 91.189.88.142:80
+08/17/2020-15:38:02.387395 archive.ubuntu.com [**] /ubuntu/pool/main/a/apt/apt_1.2.32ubuntu0.1_amd64.deb [**] Debian APT-HTTP/1.3 (1.2.29) [**] 192.168.1.70:53730 -> 91.189.88.142:80
+08/17/2020-15:38:02.387395 archive.ubuntu.com [**] /ubuntu/pool/main/d/debconf/debconf_1.5.58ubuntu2_all.deb [**] Debian APT-HTTP/1.3 (1.2.29) [**] 192.168.1.70:53730 -> 91.189.88.142:80
+08/17/2020-15:38:02.419948 archive.ubuntu.com [**] /ubuntu/pool/main/s/systemd/systemd-sysv_229-4ubuntu21.28_amd64.deb [**] Debian APT-HTTP/1.3 (1.2.29) [**] 192.168.1.70:53730 -> 91.189.88.142:80
+08/17/2020-15:38:02.419948 archive.ubuntu.com [**] /ubuntu/pool/main/e/e2fsprogs/libcomerr2_1.42.13-1ubuntu1.2_amd64.deb [**] Debian APT-HTTP/1.3 (1.2.29) [**] 192.168.1.70:53730 -> 91.189.88.142:80
+08/17/2020-15:38:02.419948 archive.ubuntu.com [**] /ubuntu/pool/main/d/db5.3/libdb5.3_5.3.28-11ubuntu0.2_amd64.deb [**] Debian APT-HTTP/1.3 (1.2.29) [**] 192.168.1.70:53730 -> 91.189.88.142:80
+08/17/2020-15:38:02.419948 archive.ubuntu.com [**] /ubuntu/pool/main/u/util-linux/libfdisk1_2.27.1-6ubuntu3.10_amd64.deb [**] Debian APT-HTTP/1.3 (1.2.29) [**] 192.168.1.70:53730 -> 91.189.88.142:80
+08/17/2020-15:38:02.477247 archive.ubuntu.com [**] /ubuntu/pool/main/libg/libgcrypt20/libgcrypt20_1.6.5-2ubuntu0.6_amd64.deb [**] Debian APT-HTTP/1.3 (1.2.29) [**] 192.168.1.70:53730 -> 91.189.88.142:80
+08/17/2020-15:38:02.901671 archive.ubuntu.com [**] /ubuntu/pool/main/u/util-linux/libsmartcols1_2.27.1-6ubuntu3.10_amd64.deb [**] Debian APT-HTTP/1.3 (1.2.29) [**] 192.168.1.70:53730 -> 91.189.88.142:80
+08/17/2020-15:38:02.987187 archive.ubuntu.com [**] /ubuntu/pool/main/e/e2fsprogs/libss2_1.42.13-1ubuntu1.2_amd64.deb [**] Debian APT-HTTP/1.3 (1.2.29) [**] 192.168.1.70:53730 -> 91.189.88.142:80
+08/17/2020-15:38:02.987187 archive.ubuntu.com [**] /ubuntu/pool/main/s/systemd/libudev1_229-4ubuntu21.28_amd64.deb [**] Debian APT-HTTP/1.3 (1.2.29) [**] 192.168.1.70:53730 -> 91.189.88.142:80
+08/17/2020-15:38:03.176466 archive.ubuntu.com [**] /ubuntu/pool/main/g/glibc/multiarch-support_2.23-0ubuntu11.2_amd64.deb [**] Debian APT-HTTP/1.3 (1.2.29) [**] 192.168.1.70:53730 -> 91.189.88.142:80
+08/17/2020-15:38:03.297681 archive.ubuntu.com [**] /ubuntu/pool/main/p/procps/libprocps4_3.3.10-4ubuntu2.5_amd64.deb [**] Debian APT-HTTP/1.3 (1.2.29) [**] 192.168.1.70:53730 -> 91.189.88.142:80
+08/17/2020-15:38:03.297681 archive.ubuntu.com [**] /ubuntu/pool/main/p/procps/procps_3.3.10-4ubuntu2.5_amd64.deb [**] Debian APT-HTTP/1.3 (1.2.29) [**] 192.168.1.70:53730 -> 91.189.88.142:80
+08/17/2020-15:38:03.297681 archive.ubuntu.com [**] /ubuntu/pool/main/b/bind9/libisc-export160_9.10.3.dfsg.P4-8ubuntu1.16_amd64.deb [**] Debian APT-HTTP/1.3 (1.2.29) [**] 192.168.1.70:53730 -> 91.189.88.142:80
+08/17/2020-15:38:03.383646 archive.ubuntu.com [**] /ubuntu/pool/main/b/bind9/libdns-export162_9.10.3.dfsg.P4-8ubuntu1.16_amd64.deb [**] Debian APT-HTTP/1.3 (1.2.29) [**] 192.168.1.70:53730 -> 91.189.88.142:80
+08/17/2020-15:41:13.680337 archive.ubuntu.com [**] /ubuntu/pool/main/n/net-tools/net-tools_1.60-26ubuntu1_amd64.deb [**] Debian APT-HTTP/1.3 (1.2.32ubuntu0.1) [**] 192.168.1.80:37258 -> 91.189.88.142:80
+08/17/2020-15:41:18.165096 archive.ubuntu.com [**] /ubuntu/pool/main/n/net-tools/net-tools_1.60-26ubuntu1_amd64.deb [**] Debian APT-HTTP/1.3 (1.2.32ubuntu0.1) [**] 192.168.1.70:53734 -> 91.189.88.142:80
+08/17/2020-15:42:29.354985 deb.debian.org [**] /debian/pool/main/n/net-tools/net-tools_1.60%2bgit20180626.aebd88e-1_amd64.deb [**] Debian APT-HTTP/1.3 (1.8.2) [**] 192.168.1.2:53052 -> 151.101.134.133:80
+08/17/2020-15:44:16.894977 deb.debian.org [**] /debian/pool/main/libi/libidn/libidn11_1.33-2.2_amd64.deb [**] Debian APT-HTTP/1.3 (1.8.2) [**] 192.168.1.2:53056 -> 151.101.134.133:80
+08/17/2020-15:50:28.417115 archive.ubuntu.com [**] /ubuntu/pool/universe/i/inetutils/inetutils-ping_1.9.4-1build1_amd64.deb [**] Debian APT-HTTP/1.3 (1.2.32ubuntu0.1) [**] 192.168.1.80:56694 -> 91.189.88.152:80
+08/17/2020-15:57:07.760484 archive.ubuntu.com [**] /ubuntu/pool/universe/i/inetutils/inetutils-ping_1.9.4-1build1_amd64.deb [**] Debian APT-HTTP/1.3 (1.2.32ubuntu0.1) [**] 192.168.1.70:53748 -> 91.189.88.142:80
+08/17/2020-16:00:50.734958 archive.ubuntu.com [**] /ubuntu/pool/main/g/gpm/libgpm2_1.20.4-6.1_amd64.deb [**] Debian APT-HTTP/1.3 (1.2.32ubuntu0.1) [**] 192.168.1.70:53752 -> 91.189.88.142:80
+08/17/2020-16:06:20.747518 archive.ubuntu.com [**] /ubuntu/pool/main/p/python3.5/python3.5-minimal_3.5.2-2ubuntu0%7e16.04.11_amd64.deb [**] Debian APT-HTTP/1.3 (1.2.32ubuntu0.1) [**] 192.168.1.70:53756 -> 91.189.88.142:80
+08/17/2020-16:06:21.260728 archive.ubuntu.com [**] /ubuntu/pool/main/p/python3-defaults/python3-minimal_3.5.1-3_amd64.deb [**] Debian APT-HTTP/1.3 (1.2.32ubuntu0.1) [**] 192.168.1.70:53756 -> 91.189.88.142:80
+08/17/2020-16:06:21.260728 archive.ubuntu.com [**] /ubuntu/pool/main/p/python3.5/python3.5_3.5.2-2ubuntu0%7e16.04.11_amd64.deb [**] Debian APT-HTTP/1.3 (1.2.32ubuntu0.1) [**] 192.168.1.70:53756 -> 91.189.88.142:80
+08/17/2020-16:06:21.260728 archive.ubuntu.com [**] /ubuntu/pool/main/p/python3-defaults/libpython3-stdlib_3.5.1-3_amd64.deb [**] Debian APT-HTTP/1.3 (1.2.32ubuntu0.1) [**] 192.168.1.70:53756 -> 91.189.88.142:80
+08/17/2020-16:06:21.260728 archive.ubuntu.com [**] /ubuntu/pool/main/d/dh-python/dh-python_2.20151103ubuntu1.2_all.deb [**] Debian APT-HTTP/1.3 (1.2.32ubuntu0.1) [**] 192.168.1.70:53756 -> 91.189.88.142:80
+08/17/2020-16:06:21.260728 archive.ubuntu.com [**] /ubuntu/pool/main/p/python3-defaults/python3_3.5.1-3_amd64.deb [**] Debian APT-HTTP/1.3 (1.2.32ubuntu0.1) [**] 192.168.1.70:53756 -> 91.189.88.142:80
+08/17/2020-16:07:41.648509 archive.ubuntu.com [**] /ubuntu/pool/main/p/python2.7/libpython2.7-minimal_2.7.12-1ubuntu0%7e16.04.12_amd64.deb [**] Debian APT-HTTP/1.3 (1.2.32ubuntu0.1) [**] 192.168.1.70:53760 -> 91.189.88.142:80
+08/17/2020-16:07:41.960926 archive.ubuntu.com [**] /ubuntu/pool/main/p/python2.7/python2.7-minimal_2.7.12-1ubuntu0%7e16.04.12_amd64.deb [**] Debian APT-HTTP/1.3 (1.2.32ubuntu0.1) [**] 192.168.1.70:53760 -> 91.189.88.142:80
+08/17/2020-16:07:41.960926 archive.ubuntu.com [**] /ubuntu/pool/main/p/python-defaults/python-minimal_2.7.12-1%7e16.04_amd64.deb [**] Debian APT-HTTP/1.3 (1.2.32ubuntu0.1) [**] 192.168.1.70:53760 -> 91.189.88.142:80
+08/17/2020-16:07:41.960926 archive.ubuntu.com [**] /ubuntu/pool/main/libf/libffi/libffi6_3.2.1-4_amd64.deb [**] Debian APT-HTTP/1.3 (1.2.32ubuntu0.1) [**] 192.168.1.70:53760 -> 91.189.88.142:80
+08/17/2020-16:07:41.960926 archive.ubuntu.com [**] /ubuntu/pool/main/p/python2.7/libpython2.7-stdlib_2.7.12-1ubuntu0%7e16.04.12_amd64.deb [**] Debian APT-HTTP/1.3 (1.2.32ubuntu0.1) [**] 192.168.1.70:53760 -> 91.189.88.142:80
+08/17/2020-16:07:41.960926 archive.ubuntu.com [**] /ubuntu/pool/main/p/python2.7/python2.7_2.7.12-1ubuntu0%7e16.04.12_amd64.deb [**] Debian APT-HTTP/1.3 (1.2.32ubuntu0.1) [**] 192.168.1.70:53760 -> 91.189.88.142:80
+08/17/2020-16:07:41.960926 archive.ubuntu.com [**] /ubuntu/pool/main/p/python-defaults/libpython-stdlib_2.7.12-1%7e16.04_amd64.deb [**] Debian APT-HTTP/1.3 (1.2.32ubuntu0.1) [**] 192.168.1.70:53760 -> 91.189.88.142:80
+08/17/2020-16:07:41.960926 archive.ubuntu.com [**] /ubuntu/pool/main/p/python-defaults/python_2.7.12-1%7e16.04_amd64.deb [**] Debian APT-HTTP/1.3 (1.2.32ubuntu0.1) [**] 192.168.1.70:53760 -> 91.189.88.142:80
+08/17/2020-16:07:41.960926 archive.ubuntu.com [**] /ubuntu/pool/universe/s/scapy/python-scapy_2.2.0-1_all.deb [**] Debian APT-HTTP/1.3 (1.2.32ubuntu0.1) [**] 192.168.1.70:53760 -> 91.189.88.142:80
+08/17/2020-16:08:27.698089 archive.ubuntu.com [**] /ubuntu/pool/main/libx/libxau/libxau6_1.0.8-1_amd64.deb [**] Debian APT-HTTP/1.3 (1.2.32ubuntu0.1) [**] 192.168.1.70:59942 -> 91.189.88.152:80
+08/17/2020-16:08:27.775639 archive.ubuntu.com [**] /ubuntu/pool/main/libx/libxdmcp/libxdmcp6_1.1.2-1.1_amd64.deb [**] Debian APT-HTTP/1.3 (1.2.32ubuntu0.1) [**] 192.168.1.70:59942 -> 91.189.88.152:80
+08/17/2020-16:08:27.775639 archive.ubuntu.com [**] /ubuntu/pool/main/libx/libxcb/libxcb1_1.11.1-1ubuntu1_amd64.deb [**] Debian APT-HTTP/1.3 (1.2.32ubuntu0.1) [**] 192.168.1.70:59942 -> 91.189.88.152:80
+08/17/2020-16:08:27.775639 archive.ubuntu.com [**] /ubuntu/pool/main/libx/libx11/libx11-data_1.6.3-1ubuntu2.1_all.deb [**] Debian APT-HTTP/1.3 (1.2.32ubuntu0.1) [**] 192.168.1.70:59942 -> 91.189.88.152:80
+08/17/2020-16:08:27.775639 archive.ubuntu.com [**] /ubuntu/pool/main/libx/libx11/libx11-6_1.6.3-1ubuntu2.1_amd64.deb [**] Debian APT-HTTP/1.3 (1.2.32ubuntu0.1) [**] 192.168.1.70:59942 -> 91.189.88.152:80
+08/17/2020-16:08:27.775639 archive.ubuntu.com [**] /ubuntu/pool/main/libx/libxext/libxext6_1.3.3-1_amd64.deb [**] Debian APT-HTTP/1.3 (1.2.32ubuntu0.1) [**] 192.168.1.70:59942 -> 91.189.88.152:80
+08/17/2020-16:08:27.775639 archive.ubuntu.com [**] /ubuntu/pool/main/f/fonts-dejavu/fonts-dejavu-core_2.35-1_all.deb [**] Debian APT-HTTP/1.3 (1.2.32ubuntu0.1) [**] 192.168.1.70:59942 -> 91.189.88.152:80
+08/17/2020-16:08:27.775639 archive.ubuntu.com [**] /ubuntu/pool/main/u/ucf/ucf_3.0036_all.deb [**] Debian APT-HTTP/1.3 (1.2.32ubuntu0.1) [**] 192.168.1.70:59942 -> 91.189.88.152:80
+08/17/2020-16:08:27.775639 archive.ubuntu.com [**] /ubuntu/pool/main/f/fontconfig/fontconfig-config_2.11.94-0ubuntu1.1_all.deb [**] Debian APT-HTTP/1.3 (1.2.32ubuntu0.1) [**] 192.168.1.70:59942 -> 91.189.88.152:80
+08/17/2020-16:08:27.775639 archive.ubuntu.com [**] /ubuntu/pool/main/libp/libpng/libpng12-0_1.2.54-1ubuntu1.1_amd64.deb [**] Debian APT-HTTP/1.3 (1.2.32ubuntu0.1) [**] 192.168.1.70:59942 -> 91.189.88.152:80
+08/17/2020-16:08:27.832393 archive.ubuntu.com [**] /ubuntu/pool/main/f/freetype/libfreetype6_2.6.1-0.1ubuntu2.4_amd64.deb [**] Debian APT-HTTP/1.3 (1.2.32ubuntu0.1) [**] 192.168.1.70:59942 -> 91.189.88.152:80
+08/17/2020-16:08:27.975532 archive.ubuntu.com [**] /ubuntu/pool/main/f/fontconfig/libfontconfig1_2.11.94-0ubuntu1.1_amd64.deb [**] Debian APT-HTTP/1.3 (1.2.32ubuntu0.1) [**] 192.168.1.70:59942 -> 91.189.88.152:80
+08/17/2020-16:08:27.975532 archive.ubuntu.com [**] /ubuntu/pool/main/libx/libxrender/libxrender1_0.9.9-0ubuntu1_amd64.deb [**] Debian APT-HTTP/1.3 (1.2.32ubuntu0.1) [**] 192.168.1.70:59942 -> 91.189.88.152:80
+08/17/2020-16:08:27.975532 archive.ubuntu.com [**] /ubuntu/pool/main/x/xft/libxft2_2.3.2-1_amd64.deb [**] Debian APT-HTTP/1.3 (1.2.32ubuntu0.1) [**] 192.168.1.70:59942 -> 91.189.88.152:80
+08/17/2020-16:08:28.121588 archive.ubuntu.com [**] /ubuntu/pool/main/x/xorg/x11-common_7.7%2b13ubuntu3.1_all.deb [**] Debian APT-HTTP/1.3 (1.2.32ubuntu0.1) [**] 192.168.1.70:59942 -> 91.189.88.152:80
+08/17/2020-16:08:28.193799 archive.ubuntu.com [**] /ubuntu/pool/main/libx/libxss/libxss1_1.2.2-1_amd64.deb [**] Debian APT-HTTP/1.3 (1.2.32ubuntu0.1) [**] 192.168.1.70:59942 -> 91.189.88.152:80
+08/17/2020-16:08:28.343401 archive.ubuntu.com [**] /ubuntu/pool/main/t/tzdata/tzdata_2020a-0ubuntu0.16.04_all.deb [**] Debian APT-HTTP/1.3 (1.2.32ubuntu0.1) [**] 192.168.1.70:59942 -> 91.189.88.152:80
+08/17/2020-16:08:28.343401 archive.ubuntu.com [**] /ubuntu/pool/main/t/tcl8.6/libtcl8.6_8.6.5%2bdfsg-2_amd64.deb [**] Debian APT-HTTP/1.3 (1.2.32ubuntu0.1) [**] 192.168.1.70:59942 -> 91.189.88.152:80
+08/17/2020-16:08:28.343401 archive.ubuntu.com [**] /ubuntu/pool/main/t/tk8.6/libtk8.6_8.6.5-1_amd64.deb [**] Debian APT-HTTP/1.3 (1.2.32ubuntu0.1) [**] 192.168.1.70:59942 -> 91.189.88.152:80
+08/17/2020-16:08:28.343401 archive.ubuntu.com [**] /ubuntu/pool/main/b/blt/tk8.6-blt2.5_2.5.3%2bdfsg-3_amd64.deb [**] Debian APT-HTTP/1.3 (1.2.32ubuntu0.1) [**] 192.168.1.70:59942 -> 91.189.88.152:80
+08/17/2020-16:08:28.343401 archive.ubuntu.com [**] /ubuntu/pool/main/b/blt/blt_2.5.3%2bdfsg-3_amd64.deb [**] Debian APT-HTTP/1.3 (1.2.32ubuntu0.1) [**] 192.168.1.70:59942 -> 91.189.88.152:80
+08/17/2020-16:08:28.343401 archive.ubuntu.com [**] /ubuntu/pool/main/p/python3-stdlib-extensions/python3-tk_3.5.1-1_amd64.deb [**] Debian APT-HTTP/1.3 (1.2.32ubuntu0.1) [**] 192.168.1.70:59942 -> 91.189.88.152:80
+08/17/2020-16:09:03.003287 archive.ubuntu.com [**] /ubuntu/pool/main/b/bzip2/bzip2_1.0.6-8ubuntu0.2_amd64.deb [**] Debian APT-HTTP/1.3 (1.2.32ubuntu0.1) [**] 192.168.1.70:59936 -> 91.189.88.152:80
